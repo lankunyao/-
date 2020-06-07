@@ -1,0 +1,7 @@
+﻿  MyPing.cpp
+C:\Winsock\MyPing\MyPing\MyPing.cpp(152,17): warning C4018: “>”: 有符号/无符号不匹配
+C:\Winsock\MyPing\MyPing\MyPing.cpp(155,17): warning C4018: “<”: 有符号/无符号不匹配
+C:\Winsock\MyPing\MyPing\MyPing.cpp(92,38): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Winsock\MyPing\MyPing\MyPing.cpp(136,20): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Winsock\MyPing\MyPing\MyPing.cpp(251): warning C4172: 返回局部变量或临时变量的地址: ipstringbuffer
+  MyPing.vcxproj -> C:\Winsock\MyPing\Debug\MyPing.exe
