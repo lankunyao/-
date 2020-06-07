@@ -1,0 +1,3 @@
+﻿  WebServer.cpp
+C:\Winsock\WebServer\WebServer\WebServer.cpp(29,9): warning C4101: “iSendResult”: 未引用的局部变量
+  WebServer.vcxproj -> C:\Winsock\WebServer\Debug\WebServer.exe

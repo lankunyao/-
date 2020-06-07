@@ -1,0 +1,6 @@
+﻿  WebServer2.cpp
+C:\Winsock\WebServer2\WebServer2\WebServer2.cpp(52,10): warning C4101: “recvbuf”: 未引用的局部变量
+C:\Winsock\WebServer2\WebServer2\WebServer2.cpp(44,10): warning C4101: “outbuf”: 未引用的局部变量
+C:\Winsock\WebServer2\WebServer2\WebServer2.cpp(51,9): warning C4101: “iSendResult”: 未引用的局部变量
+C:\Winsock\WebServer2\WebServer2\WebServer2.cpp(195,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“void *”
+  WebServer2.vcxproj -> C:\Winsock\WebServer2\Debug\WebServer2.exe
